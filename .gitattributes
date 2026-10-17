@@ -1,0 +1,8 @@
+* text=auto
+*.mp4 -text
+*.pdf -text
+*.docx -text
+*.pptx -text
+*.png -text
+*.jpg -text
+*.jpeg -text

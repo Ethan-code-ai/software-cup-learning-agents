@@ -1,0 +1,110 @@
+﻿[
+    {
+        "id":  13,
+        "document_id":  4,
+        "concept_id":  null,
+        "content":  "# BFS ä¸ DFS æå¨ RAG æµè¯èµæ",
+        "vector_ref":  null,
+        "metadata":  {
+                         "chunk_index":  0,
+                         "filename":  "bfs-dfs-note.md",
+                         "parser":  "markdown",
+                         "char_start":  0,
+                         "char_end":  23,
+                         "document_id":  4,
+                         "source_ref":  "document:4#chunk:0",
+                         "retrieval_mode":  "keyword"
+                     },
+        "source_ref":  "document:4#chunk:0"
+    },
+    {
+        "id":  14,
+        "document_id":  4,
+        "concept_id":  null,
+        "content":  "## BFS çæ ¸å¿ææ³\n\nBFSï¼ä¹å°±æ¯å¹¿åº¦ä¼å\u0085æç´¢ï¼ä¼ä»èµ·ç¹å¼å§æå±æ©å±èç¹ãå®éå¸¸ä½¿ç¨ queue ä¿å­å¾\u0085è®¿é®èç¹ï¼å æ­¤æ¯ä¸å±ä¼å\u0085äºä¸ä¸å±è¢«å¤çãå¨æ æå¾ä¸­ï¼å¦ææ¯æ¡è¾¹çä»£ä»·ç¸åï¼BFS ç¬¬ä¸æ¬¡å°è¾¾æä¸ªèç¹æ¶ï¼ç»è¿çè¾¹æ°å°±æ¯ä»èµ·ç¹å°è¯¥èç¹çæå°è¾¹æ°ã",
+        "vector_ref":  null,
+        "metadata":  {
+                         "chunk_index":  1,
+                         "filename":  "bfs-dfs-note.md",
+                         "parser":  "markdown",
+                         "char_start":  24,
+                         "char_end":  152,
+                         "document_id":  4,
+                         "source_ref":  "document:4#chunk:1",
+                         "retrieval_mode":  "keyword"
+                     },
+        "source_ref":  "document:4#chunk:1"
+    },
+    {
+        "id":  15,
+        "document_id":  4,
+        "concept_id":  null,
+        "content":  "## BFS éåçåºæ¯\n\nBFS éåè§£å³æç­æ­¥æ°ãå±åºéåãç¶æç©ºé´ææ­¥æ°æ©å±çé®é¢ãä¾å¦è¿·å®«æç­è·¯å¾ãç¤¾äº¤ç½ç»ä¸­çæç­å\u0085³ç³»é¾ï¼ä»¥åäºåæ å±åºéåãBFS çä¸»è¦ä»£ä»·æ¯éè¦ä¿å­å½å frontierï¼å æ­¤ç©ºé´å¤æåº¦å¯è½è¾é«ã",
+        "vector_ref":  null,
+        "metadata":  {
+                         "chunk_index":  2,
+                         "filename":  "bfs-dfs-note.md",
+                         "parser":  "markdown",
+                         "char_start":  153,
+                         "char_end":  267,
+                         "document_id":  4,
+                         "source_ref":  "document:4#chunk:2",
+                         "retrieval_mode":  "keyword"
+                     },
+        "source_ref":  "document:4#chunk:2"
+    },
+    {
+        "id":  16,
+        "document_id":  4,
+        "concept_id":  null,
+        "content":  "## DFS çæ ¸å¿ææ³\n\nDFSï¼ä¹å°±æ¯æ·±åº¦ä¼å\u0085æç´¢ï¼ä¼æ²¿çä¸æ¡è·¯å¾å°½å¯è½æ·±å\u0085¥ï¼ç´å°ä¸è½ç»§ç»­ååæº¯ãDFS å¸¸ç¨éå½è°ç¨æ ææå¨ stack å®ç°ãå®éåè¿éæ§å¤æ­ãåæº¯æç´¢ãææç»æåæï¼ä»¥åéè¦æä¸¾è·¯å¾çåºæ¯ã",
+        "vector_ref":  null,
+        "metadata":  {
+                         "chunk_index":  3,
+                         "filename":  "bfs-dfs-note.md",
+                         "parser":  "markdown",
+                         "char_start":  268,
+                         "char_end":  376,
+                         "document_id":  4,
+                         "source_ref":  "document:4#chunk:3",
+                         "retrieval_mode":  "keyword"
+                     },
+        "source_ref":  "document:4#chunk:3"
+    },
+    {
+        "id":  17,
+        "document_id":  4,
+        "concept_id":  null,
+        "content":  "## BFS ä¸ DFS çåºå«\n\nBFS æ´å\u0085³æ³¨æå±æ¨è¿ï¼éå¸¸è½ç´æ¥å¾å°æ æå¾çæç­è¾¹æ°è·¯å¾ãDFS æ´å\u0085³æ³¨æ·±å\u0085¥æ¢ç´¢ï¼ç©ºé´å ç¨å¨æäºç¨çè·¯å¾åºæ¯ä¸æ´ä½ï¼ä½ä¸è½ä¿è¯ç¬¬ä¸æ¬¡å°è¾¾å°±æ¯æç­è·¯å¾ãéæ© BFS è¿æ¯ DFSï¼è¦çé®é¢æ¯å¦å¼ºè°æç­æ­¥æ°ãæ¯å¦éè¦å®æ´è·¯å¾æä¸¾ï¼ä»¥åå¾çè§æ¨¡åå\u0085å­éå¶ã",
+        "vector_ref":  null,
+        "metadata":  {
+                         "chunk_index":  4,
+                         "filename":  "bfs-dfs-note.md",
+                         "parser":  "markdown",
+                         "char_start":  377,
+                         "char_end":  521,
+                         "document_id":  4,
+                         "source_ref":  "document:4#chunk:4",
+                         "retrieval_mode":  "keyword"
+                     },
+        "source_ref":  "document:4#chunk:4"
+    },
+    {
+        "id":  18,
+        "document_id":  4,
+        "concept_id":  null,
+        "content":  "## æéç¹\n\nä¸è¦æ BFS å DFS é½åªçè§£æâéåææç¹âãBFS çå\u0085³é®æ¯ queue åå±æ¬¡ï¼DFS çå\u0085³é®æ¯ stack/éå½ååæº¯ãæ ææç­è·¯å¾ä¸è¬ä¼å\u0085 BFSï¼å¦æé¢ç®è¦æ±æä¸¾ææå¯è½è·¯å¾æååæº¯éæ©ï¼éå¸¸ä¼å\u0085 DFSã",
+        "vector_ref":  null,
+        "metadata":  {
+                         "chunk_index":  5,
+                         "filename":  "bfs-dfs-note.md",
+                         "parser":  "markdown",
+                         "char_start":  522,
+                         "char_end":  642,
+                         "document_id":  4,
+                         "source_ref":  "document:4#chunk:5",
+                         "retrieval_mode":  "keyword"
+                     },
+        "source_ref":  "document:4#chunk:5"
+    }
+]

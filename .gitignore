@@ -1,0 +1,47 @@
+# Local credentials and machine-specific configuration
+.env
+.env.*
+!.env.example
+!*.env.example
+deployment/local.env
+deployment/competition.env
+*.pem
+*.key
+
+# Dependencies and generated build output
+.venv/
+venv/
+env/
+node_modules/
+dist/
+build/
+*.egg-info/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Test output, runtime databases, uploads, and logs
+test-results/
+playwright-report/
+blob-report/
+coverage/
+htmlcov/
+.coverage
+.coverage.*
+*.sqlite
+*.sqlite3
+*.sqlite3-*
+*.db
+*.db-*
+*.journal
+data/uploads/
+*.log
+*.pid
+
+# Editor and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
